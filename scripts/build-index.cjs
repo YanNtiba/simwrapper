@@ -58,3 +58,4 @@ if (process.argv.length < 3) {
   const dir = process.argv[2] || '.'
   buildIndexForFolder(dir)
 }
+
